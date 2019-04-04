@@ -21,6 +21,12 @@ This repository is my personal notes in ECUST.
 
 目前没有上传的部分。
 
+# C语言
+
+目前已上传部分：
+
+* 循环
+
 ## Matlab基础与应用
 
 Matlab基础与应用由华东理工大学化工学院，在2018-2019(2)学期开设。
