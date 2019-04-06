@@ -2,7 +2,8 @@
 This repository is my personal notes in ECUST.
 
 这个库将存储我在华东理工大学的笔记。
-大部分笔记使用LaTeX创作，也将编译后的PDF格式上传以方便阅读。
+
+大部分笔记使用LaTeX创作，也将编译后的PDF格式上传以方便阅读。有时候我会使用更方便的工具。
 
 wiki部分正在建设中。
 
