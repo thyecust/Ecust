@@ -2,8 +2,9 @@
 This repository is my personal notes in ECUST.
 
 这个库将存储我在华东理工大学的笔记。
+大部分笔记使用LaTeX创作，也将编译后的PDF格式上传以方便阅读。
 
-你可以在wiki里更方便的阅读。
+wiki部分正在建设中。
 
 如果你是Github的初学者（比如我在社会学院的文科同学，没有使用Github的经验），可以阅读知乎上的[这个回答](https://www.zhihu.com/question/20070065/answer/79557687)。
 
@@ -31,7 +32,9 @@ This repository is my personal notes in ECUST.
 
 Matlab基础与应用由华东理工大学化工学院，在2018-2019(2)学期开设。
 
-目前没有上传的部分。
+已上传内容：
+
+* 第一次笔记
 
 ## 社会研究方法
 
