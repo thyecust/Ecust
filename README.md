@@ -9,6 +9,8 @@ wiki部分正在建设中。
 
 如果你是Github的初学者（比如我在社会学院的文科同学，没有使用Github的经验），可以阅读知乎上的[这个回答](https://www.zhihu.com/question/20070065/answer/79557687)。
 
+如果有任何问题，欢迎在issues提出，另外我的联系方式是thy\[at\]mail.ecust.edu.cn。Enjoy learning！
+
 青青园中葵，朝露待日晞。
 阳春布德泽，万物生光辉。
 
