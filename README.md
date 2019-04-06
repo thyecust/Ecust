@@ -31,7 +31,9 @@ This repository is my personal notes in ECUST.
 
 Matlab基础与应用由华东理工大学化工学院，在2018-2019(2)学期开设。
 
-目前没有上传的部分。
+已上传内容：
+
+* 第一次笔记
 
 ## 社会研究方法
 
