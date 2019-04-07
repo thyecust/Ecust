@@ -24,7 +24,7 @@ wiki部分正在建设中。
 
 计算社会科学由华东理工大学社会与公共管理学院，在2018-2019(2)学期开设。
 
-1. [第一次笔记](./CSocialScience_notes/cssn01.md)[\[PDF\]](.\CSocialScience_notes\cssn01.pdf)
+1. [第一次笔记](./CSocialScience_notes/cssn01.md)[\[PDF\]](./CSocialScience_notes/cssn01.pdf)
 
 ## Matlab基础与应用
 
