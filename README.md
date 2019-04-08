@@ -20,19 +20,19 @@ wiki部分正在建设中。
 
 **少壮不努力，老大徒伤悲。**
 
-## 计算社会科学
+## 计算社会科学 Computational Social Science Notes
 
 计算社会科学由华东理工大学社会与公共管理学院，在2018-2019(2)学期开设。
 
-1. [第一次笔记](https://github.com/thyecust/Ecust/wiki/CSSN01)[\[PDF\]](https://thyecust.github.io/Ecust/CSocialScience_notes/cssn01.pdf)(updated 2019-04-04)
+1. [CSSN01：Python起步](https://github.com/thyecust/Ecust/wiki/CSSN01)[\[PDF\]](https://thyecust.github.io/Ecust/cssn/cssn01.pdf)(updated 2019-04-04)
 
-## Matlab基础与应用
+## Matlab基础与应用 MATLANB Basic Notes
 
 Matlab基础与应用由华东理工大学化工学院，在2018-2019(2)学期开设。
 
-1. [第一次笔记](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln01.html)[\[PDF\]](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln01.pdf)(updated 2019-04-07)
-2. [第二次笔记](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln02.html)[\[PDF\]](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln02.pdf)(updated 2019-04-07)
-3. [第三次笔记](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln03.html)[\[PDF\]](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln03.pdf)(updated 2019-04-07)
+1. [第一次笔记](https://thyecust.github.io/Ecust/MLbn/mlbn01.html)[\[PDF\]](https://thyecust.github.io/Ecust/MLbn/mlbn01.pdf)(updated 2019-04-07)
+2. [第二次笔记](https://thyecust.github.io/Ecust/MLbn/mlbn02.html)[\[PDF\]](https://thyecust.github.io/Ecust/MLbn/mlbn02.pdf)(updated 2019-04-07)
+3. [第三次笔记](https://thyecust.github.io/Ecust/MLbn/mlbn03.html)[\[PDF\]](https://thyecust.github.io/Ecust/MLbn/mlbn03.pdf)(updated 2019-04-08)
 
 ## 社会研究方法
 
