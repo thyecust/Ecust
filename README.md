@@ -30,9 +30,9 @@ wiki部分正在建设中。
 
 Matlab基础与应用由华东理工大学化工学院，在2018-2019(2)学期开设。
 
-1. [第一次笔记](https://thyecust.github.io/Ecust/MLbn/mlbn01.html)[\[PDF\]](https://thyecust.github.io/Ecust/MLbn/mlbn01.pdf)(updated 2019-04-07)
-2. [第二次笔记](https://thyecust.github.io/Ecust/MLbn/mlbn02.html)[\[PDF\]](https://thyecust.github.io/Ecust/MLbn/mlbn02.pdf)(updated 2019-04-07)
-3. [第三次笔记](https://thyecust.github.io/Ecust/MLbn/mlbn03.html)[\[PDF\]](https://thyecust.github.io/Ecust/MLbn/mlbn03.pdf)(updated 2019-04-08)
+1. [MATLAB01：MATLAB概述](https://thyecust.github.io/Ecust/MLbn/mlbn01.html)[\[PDF\]](https://thyecust.github.io/Ecust/MLbn/mlbn01.pdf)(updated 2019-04-07)
+2. [MATLAB02：初等数学运算](https://thyecust.github.io/Ecust/MLbn/mlbn02.html)[\[PDF\]](https://thyecust.github.io/Ecust/MLbn/mlbn02.pdf)(updated 2019-04-07)
+3. [MATLAB03：符号运算](https://thyecust.github.io/Ecust/MLbn/mlbn03.html)[\[PDF\]](https://thyecust.github.io/Ecust/MLbn/mlbn03.pdf)(updated 2019-04-08)
 
 ## 社会研究方法
 
