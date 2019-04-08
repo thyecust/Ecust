@@ -32,6 +32,7 @@ Matlab基础与应用由华东理工大学化工学院，在2018-2019(2)学期�
 
 1. [第一次笔记](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln01.html)[\[PDF\]](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln01.pdf)(updated 2019-04-07)
 2. [第二次笔记](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln02.html)[\[PDF\]](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln02.pdf)(updated 2019-04-07)
+3. [第三次笔记](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln03.html)[\[PDF\]](https://thyecust.github.io/Ecust/MATLAB_basic_notes/mln03.pdf)(updated 2019-04-07)
 
 ## 社会研究方法
 
